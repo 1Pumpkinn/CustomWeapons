@@ -1,0 +1,6 @@
+name: CustomWeapons
+version: '1.0-SNAPSHOT'
+main: hs.customWeapons.CustomWeapons
+api-version: '1.21'
+load: STARTUP
+authors: [ ___Pumpkinn ]
