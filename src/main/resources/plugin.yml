@@ -1,6 +1,6 @@
-name: CustomWeapons
+name: VoidBuilder
 version: '1.0-SNAPSHOT'
-main: hs.customWeapons.CustomWeapons
+main: hs.voidbuilder.VoidBuilderPlugin
 api-version: '1.21'
-load: STARTUP
 authors: [ ___Pumpkinn ]
+description: Adds buildable terrain and special mechanics to the void below Y=0
